@@ -1,0 +1,7 @@
+source "py" from "tables.py" (
+   "unpackDataFrame"
+ , "packDataFrame"
+)
+
+packDataFrame   py :: packs   => DataFrame -> JSON;
+unpackDataFrame py :: unpacks => JSON -> DataFrame;

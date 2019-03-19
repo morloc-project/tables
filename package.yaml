@@ -1,0 +1,11 @@
+name: tables
+version: 0.0.0
+homepage: https://github.com/morloc-project/
+synopsis: Base types and functions
+description: Lots of detail about all this
+category: language-base
+license: MIT
+author: "Zebulun Arendsee"
+maintainer: "zbwrnz@gmail.com"
+github: https://github.com/morloc-project/tables
+bug-reports: https://github.com/morloc-project/tables
